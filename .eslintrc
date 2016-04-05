@@ -130,6 +130,6 @@
 
     // http://eslint.org/docs/user-guide/configuring#extending-configuration-files
     // ---------------------------------------------------------------------------
-    "extends": "eslint:recommended"
+    "extends": ["eslint:recommended", "plugin:react/recommended"]
 
 }
